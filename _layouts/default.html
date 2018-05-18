@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
+<!--[if !IE]><!-->
+<html lang="en">
+	<!--<![endif]-->
+
+	{% include head.html %}
+
+	<!-- body classes:  -->
+	<!-- "boxed": boxed layout mode e.g. <body class="boxed"> -->
+	<!-- "pattern-1 ... pattern-9": background patterns for boxed layout mode e.g. <body class="boxed pattern-1"> -->
+	<!-- "transparent-header": makes the header transparent and pulls the banner to top -->
+	<!-- "gradient-background-header": applies gradient background to header -->
+	<!-- "page-loader-1 ... page-loader-6": add a page loader to the page (more info @components-page-loaders.html) -->
+	<body class="no-trans ">
+
+		<!-- scrollToTop -->
+		<!-- ================ -->
+		<div class="scrollToTop circle"><i class="icon-up-open-big"></i></div>
+		
+		<!-- page wrapper start -->
+		<!-- ================ -->
+		<div class="page-wrapper">
+		
+			{% include header.html %}
+		
+			{% include slider.html %}
+			
+			<div id="page-start"></div>
+			{% include produits.html %}
+			
+
+			<!-- section start -->
+			<!-- ================ -->
+			<section class="section dark-translucent-bg" style="background-image:url('{{ site.parallax }}');background-position: 50% 32%;">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-12">
+							<div class="call-to-action text-center">
+								<div class="row">
+									<div class="col-sm-8">
+										<h1 class="title">Apprenez a mieux nous connaitre</h1>
+									</div>
+									<div class="col-sm-4">
+										
+										<p><a href="/about" class="btn btn-lg btn-default btn-animated" target="blank">Voir Plus<i class="fa fa-arrow-right pl-20"></i></a></p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<!-- section end -->
+			<div class="clearfix visible-md"></div>
+			{% include services.html %}
+
+			<!-- section start -->
+			<!-- ================ -->
+			<section class="section dark-translucent-bg pv-40" style="background-image:url('{{ site.parallax }}');background-position: 50% 32%;">
+				<div class="container">
+					<div class="row grid-space-10">
+						<div class="col-md-3 col-sm-6">
+							<div class="pv-30 ph-20 feature-box text-center object-non-visible" data-animation-effect="fadeInDownSmall" data-effect-delay="100">
+								<span class="icon default-bg"><i class="fa fa-diamond"></i></span>
+								<h3>Qualité Garantie 100%</h3>
+								
+							</div>
+						</div>
+						<div class="col-md-3 col-sm-6">
+							<div class="pv-30 ph-20 feature-box text-center object-non-visible" data-animation-effect="fadeInDownSmall" data-effect-delay="150">
+								<span class="icon default-bg"><i class="icon-lock"></i></span>
+								<h3>Service Irréprochable</h3>
+								
+							</div>
+						</div>
+						<div class="clearfix visible-sm"></div>
+						<div class="col-md-3 col-sm-6">
+							<div class="pv-30 ph-20 feature-box text-center object-non-visible" data-animation-effect="fadeInDownSmall" data-effect-delay="200">
+								<span class="icon default-bg"><i class="icon-globe"></i></span>
+								<h3 class="pl-10 pr-10">Reconnaissance mondiale</h3>
+								
+							</div>
+						</div>
+						<div class="col-md-3 col-sm-6">
+							<div class="pv-30 ph-20 feature-box text-center object-non-visible" data-animation-effect="fadeInDownSmall" data-effect-delay="250">
+								<span class="icon default-bg"><i class="icon-thumbs-up"></i></span>
+								<h3>Support Client 24/7</h3>
+								
+							</div>
+						</div>
+					</div>
+					
+				</div>
+			</section>
+			<!-- section end -->
+			
+			{% include footer.html%}
+
+	</body>
+</html>

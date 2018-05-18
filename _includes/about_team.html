@@ -1,0 +1,32 @@
+<!-- section start -->
+				<!-- ================ -->
+				<div class="light-gray-bg pv-20 section mt-20">
+					<div class="container">
+						<h3 class="mb-20">Notre <strong>Equipe</strong></h3>
+						<div class="row grid-space-10">
+						{% for team in site.teams %}
+							<div class="col-sm-6 col-md-3">
+								<div class="image-box team-member style-2 shadow bordered mb-20 text-center">
+									<div class="overlay-container overlay-visible">
+										<img src="{{ team.image }}" alt="">
+										<div class="overlay-bottom">
+											<p class="small margin-clear">{{ team.content }}</p>
+										</div>
+									</div>
+									<div class="body">
+										<h3 class="margin-clear">{{ team.name }}</h3>
+										<small>{{ team.title }}</small>
+										<div class="separator mt-10"></div>
+										<ul class="social-links circle colored margin-clear">
+											
+											<li class="linkedin"><a target="_blank" href="http://www.linkedin.com"><i class="fa fa-linkedin"></i></a></li>
+											
+										</ul>
+									</div>
+								</div>
+							</div>
+						{% endfor %}
+						</div>
+					</div>
+				</div>
+				<!-- section end -->

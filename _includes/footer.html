@@ -1,0 +1,150 @@
+<!-- footer start (Add "dark" class to #footer in order to enable dark footer) -->
+      <!-- ================ -->
+      <footer id="footer" class="clearfix ">
+        <!-- footer top start -->
+      <!-- ================ -->
+      <div class="default-bg  dark-hovered footer-top animated-text">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12">
+              <div class="call-to-action text-center">
+                <div class="row">
+                  <div class="col-sm-8">
+                    <h2>Venez a notre agence</h2>
+                    <h2>{{ site.adresse}}</h2>
+                  </div>
+                  <div class="col-sm-4">
+                    <p class="mt-10"><a href="/contact" class="btn btn-animated btn-lg btn-gray-transparent " target="blank">Contact<i class="fa fa-envelope pl-20"></i></a></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- footer top end -->
+        <!-- .footer start -->
+        <!-- ================ -->
+        <div class="footer">
+          <div class="container">
+            <div class="footer-inner">
+              <div class="row">
+                <div class="col-md-8">
+                  <div class="footer-content">
+                    <div class="logo-footer"><img id="logo_img" src="{{ site.logo }}" alt="SMBS_LOGO" style="width: 200px; height: 70px;"></div>
+                    <div class="row">
+                      <div class="col-md-6">
+                        <p class="text-justify"><br/>{{ site.orientation }}</p>
+                        
+                        <ul class="list-icons">
+                          <li><i class="fa fa-map-marker pr-10 text-default"></i> {{ site.adresse }}</li>
+                          <li><i class="fa fa-phone pr-10 text-default"></i> {{ site.tel }}</li>
+                          <li><a href="mailto:info@theproject.com"><i class="fa fa-envelope-o pr-10"></i>{{ site.email }}</a></li>
+                        </ul>
+                      </div>
+                      <div class="col-md-6">
+                        <div id="map-canvas"></div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-4">
+                  <div class="footer-content">
+                    <h2 class="title">Contactez-nous</h2>
+                    <br>
+                    <div class="alert alert-success hidden" id="MessageSent2">
+                      We have received your message, we will contact you very soon.
+                    </div>
+                    <div class="alert alert-danger hidden" id="MessageNotSent2">
+                      Oops! Something went wrong please refresh the page and try again.
+                    </div>
+                   <form id="" class="margin-clear" role="form" action="https://formspree.io/contact@independance-immobiliere.net" method="POST">
+                    <input type="hidden" name="_next" value="/thanks.html" />
+                    <input type="hidden" name="_format" value="plain" />
+                    <input type="hidden" name="_language" value="fr" />
+                      <div class="form-group has-feedback">
+                        <label for="name">Nom*</label>
+                        <input type="text" class="form-control" id="name" name="name" placeholder="">
+                        <i class="fa fa-user form-control-feedback"></i>
+                      </div>
+                      <div class="form-group has-feedback">
+                        <label for="email">Email*</label>
+                        <input type="email" class="form-control" id="email" name="_replyto" placeholder="">
+                        <i class="fa fa-envelope form-control-feedback"></i>
+                      </div>
+                      <div class="form-group has-feedback">
+                        <label for="subject">Sujet*</label>
+                        <input type="text" class="form-control" id="subject" name="subject" placeholder="">
+                        <i class="fa fa-navicon form-control-feedback"></i>
+                      </div>
+                      <div class="form-group has-feedback">
+                        <label for="message">Message*</label>
+                        <textarea class="form-control" rows="2" id="message" name="message" placeholder=""></textarea>
+                        <i class="fa fa-pencil form-control-feedback"></i>
+                      </div>
+                      <input type="submit" value="ENVOYER" class="submit-button btn btn-default">
+                    </form>
+                  </div>
+                </div>-->
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- .footer end -->
+
+        <!-- .subfooter start -->
+        <!-- ================ -->
+        <div class="subfooter default-bg">
+          <div class="container">
+            <div class="subfooter-inner">
+              <div class="row">
+                <div class="col-md-12">
+                  <p class="text-center">Copyright © 2017 The Project by <a target="_blank" href="http://www.revovision.ca">REVOVISION</a>. All Rights Reserved</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- .subfooter end -->
+
+      </footer>
+      <!-- footer end -->
+      
+    </div>
+    <!-- page-wrapper end -->
+
+    <!-- JavaScript files placed at the end of the document so the pages load faster -->
+    <!-- ================================================== -->
+    <!-- Jquery and Bootstap core js files -->
+    <script type="text/javascript" src="/plugins/jquery.min.js"></script>
+    <script type="text/javascript" src="/bootstrap/js/bootstrap.min.js"></script>
+    <!-- Modernizr javascript -->
+    <script type="text/javascript" src="/plugins/modernizr.js"></script>
+    <!-- jQuery Revolution Slider  -->
+    <script type="text/javascript" src="/plugins/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
+    <script type="text/javascript" src="/plugins/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+    <!-- Isotope javascript -->
+    <script type="text/javascript" src="/plugins/isotope/isotope.pkgd.min.js"></script>
+    <!-- Magnific Popup javascript -->
+    <script type="text/javascript" src="/plugins/magnific-popup/jquery.magnific-popup.min.js"></script>
+    <!-- Appear javascript -->
+    <script type="text/javascript" src="/plugins/waypoints/jquery.waypoints.min.js"></script>
+    <!-- Count To javascript -->
+    <script type="text/javascript" src="/plugins/jquery.countTo.js"></script>
+    <!-- Parallax javascript -->
+    <script src="/plugins/jquery.parallax-1.1.3.js"></script>
+    <!-- Contact form -->
+    <script src="/plugins/jquery.validate.js"></script>
+    <!-- Google Maps javascript -->
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?libraries=places&key=AIzaSyDqF7BlCvlPXR7hwllgjCoXBu0Pgew8Ktk"></script>
+    <script type="text/javascript" src="/js/google.map.config.js"></script>
+    <!-- Owl carousel javascript -->
+    <script type="text/javascript" src="/plugins/owl-carousel/owl.carousel.js"></script>
+    <!-- SmoothScroll javascript -->
+    <script type="text/javascript" src="/plugins/jquery.browser.js"></script>
+    <script type="text/javascript" src="/plugins/SmoothScroll.js"></script>
+    <!-- Initialization of Plugins -->
+    <script type="text/javascript" src="/js/template.js"></script>
+    <!-- Custom Scripts -->
+    <script type="text/javascript" src="/js/custom.js"></script>
+    

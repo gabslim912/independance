@@ -1,0 +1,79 @@
+---
+title: Indépendance Immobiliere
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+  biens:
+    title: biens
+    output: true
+  categories:
+    title: categories
+    output: true
+  quartiers:
+    title: quartiers
+    output: true
+  services:
+    title: services
+    output: true
+  sliders:
+    title: sliders
+    output: true
+  minisliders:
+    title: minisliders
+    output: true
+  teams:
+    title: teams
+    output: true
+  types:
+    title: types
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: biens
+  values:
+    layout: produit
+- scope:
+    path: ''
+    type: categories
+  values:
+    layout: category
+email: contact@independance-immobiliere.net
+description: INDEPENDANCE IMMOBILIERE est ouverte depuis 1974.L''agence est 
+  sous la direction de Mme Fabienne CARRERE, diplômée en Droit des Affaires,
+  Premier Clerc de Notaire, diplômée de l''Ecole Villaret de Joyeuse à Paris.
+  INDEPENDANCE IMMOBILIERE est installée avenue Fadiga, immeuble Lahad Mbacké,
+  dans des bureaux modernes et confortables, sur une superficie de 250 m2. 
+  INDEPENDANCE IMMOBILIERE est titulaire d''une carte professionnelle (carte 
+  n° 008 du 6 novembre 1987) délivrée par les autorités compétentes (Ministère
+  du Commerce). Son bilan est dressé par un conseil fiscaliste et cabinet comptable.
+
+  SES ACTIVITES SONT ETENDUES A TOUT LE SECTEUR DE L’IMMOBILIER NOTAMMENT
+
+baseurl: 
+url: 
+twitter_username: jekyllrb
+github_username: jekyll
+markdown: kramdown
+gems:
+- jekyll-feed
+- jekyll-money
+exclude:
+- Gemfile
+- Gemfile.lock
+tel: "+221 33 823 39 30"
+tel2: "+221 33 822 17 74"
+fax: "+221 33 823 30 80"
+orientation: Notre siège est situé en face du siège de la BCEAO et du Casino du Port. Accès facile par le
+  Boulevard de la Libération et de la petite corniche (Corniche EST). Parking réservé a la clientèle.
+adresse: Av. Fadiga, Immeuble Lahad Mbacké Dakar
+bp: BP 2975
+text: Adressez vous à un professionnel de l'immobilier afin d’être pleinement satisfait
+  des prestations offertes.
+logo: "/uploads/logoo.png"
+parallax: "/uploads/inde4.jpg"

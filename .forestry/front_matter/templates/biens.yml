@@ -1,0 +1,171 @@
+---
+pages:
+- _biens/villa-a-louer-yoff-virage.md
+- _biens/appartement-meuble-point-e.md
+- _biens/a-vendre-appartement-centre-ville.md
+- _biens/appartement-meuble-waterfront.md
+- _biens/villa-a-louer-mermoz-1.md
+- _biens/maison-a-vendre-784.markdown
+- _biens/maison-a-vendre-454.markdown
+- _biens/residence-adja-louise-mermoz-route-de-ouakam.md
+- _biens/residence-lovoa.md
+- _biens/sea-view-centre-ville.md
+- _biens/meuble-kleber.md
+- _biens/villa-a-vendre.md
+- _biens/meuble-gallieni-haut-plateau.md
+- _biens/appart-a-vendre-145.markdown
+- _biens/maison-a-louer-142.markdown
+- _biens/appart-a-louer-101.markdown
+hide_body: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: reference
+  label: Reference
+  type: text
+  hidden: false
+  default: ''
+  description: 'Inscrivez la référence '
+- type: file
+  name: image
+  label: image principale
+- type: select
+  name: categories
+  config:
+    source:
+      type: simple
+    options:
+    - Vente
+    - Location
+  label: categories
+  description: Selectionnez une catégorie
+- type: select
+  name: situation
+  config:
+    source:
+      type: simple
+    options:
+    - Disponible
+    - En Préavis
+    - Déjà Loué
+    - Déjà Vendu
+  label: situation
+  description: Sélectionnez la situation correspondante
+- type: select
+  name: types
+  config:
+    source:
+      type: simple
+    options:
+    - Terrain
+    - Bureau
+    - Villa
+    - Appartement
+    - Hangars
+  label: types
+  description: Selectionnez le type correspondant
+- type: select
+  name: chambres
+  config:
+    source:
+      type: simple
+    options:
+    - '1'
+    - '2'
+    - '3'
+    - '4'
+    - '5'
+    - '6'
+    - '7'
+    - '8'
+    - '9'
+  label: chambres
+  description: sélectionnez le nombre de chambres
+- type: select
+  name: quartiers
+  config:
+    source:
+      type: simple
+    options:
+    - Sacré-Coeur
+    - Virage
+    - Ngor
+    - Hann Maristes
+    - VDN
+    - Fann
+    - Mermoz
+    - Point-E
+    - Dakar Plateau
+    - Hann Plage
+    - Almadies
+  label: quartiers
+  description: Sélectionnez le quartier correspondant
+- type: image_gallery
+  name: images
+  label: images
+  description: Insérez toutes les images
+- name: prix
+  label: Prix
+  type: text
+  hidden: false
+  default: ''
+  description: 'Inscrivez le prix (ex: 5 000 000)'
+- name: surface
+  label: Surface
+  type: text
+  hidden: false
+  default: ''
+  description: 'Incrivez la surface (ex: 300 m²)'
+- name: gardien
+  label: Gardien
+  type: boolean
+  hidden: false
+  default: ''
+- name: climatisation
+  label: Climatisation
+  type: boolean
+  hidden: false
+  default: ''
+- name: groupe
+  label: Groupe
+  type: boolean
+  hidden: false
+  default: ''
+- name: jardin
+  label: Jardin
+  type: boolean
+  hidden: false
+  default: ''
+- name: meuble
+  label: Meuble
+  type: boolean
+  hidden: false
+  default: ''
+- name: parking
+  label: Parking
+  type: boolean
+  hidden: false
+  default: ''
+- name: piscine
+  label: Piscine
+  type: boolean
+  hidden: false
+  default: ''
+- name: terrasse
+  label: Terrasse
+  type: boolean
+  hidden: false
+  default: ''
+- name: cuisine
+  label: Cuisine
+  type: boolean
+  hidden: false
+  default: ''
+- name: gym
+  label: Gym
+  type: boolean
+  hidden: false
+  default: ''

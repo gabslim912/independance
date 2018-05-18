@@ -1,0 +1,27 @@
+---
+---
+
+.header-left {
+    padding: 0;
+    /* Lorsque le '&' est a droite, cela veut dire 
+    l'element dont le parent est '.fixed-header-on'*/
+    .fixed-header-on &{
+        padding: 0
+    }
+}
+#logo{
+    #logo_img{
+        height: 70px;
+        .fixed-header-on &{
+            max-height: 60px;
+        }
+    }
+}
+
+.search-box{
+    input[type=submit]{
+        position: absolute;
+        visibility: hidden;
+        pointer-events: none;
+    }
+}

@@ -1,0 +1,210 @@
+<!-- breadcrumb start -->
+			<!-- ================ -->
+			<div class="breadcrumb-container">
+				<div class="container">
+					<ol class="breadcrumb">
+						<li><i class="fa fa-home pr-10"></i><a href="/">Accueil</a></li>
+						<li class="active">{{ page.title }}</li>
+					</ol>
+				</div>
+			</div>
+			<!-- breadcrumb end -->
+
+			<!-- main-container start -->
+			<!-- ================ -->
+			<section class="main-container">
+
+				<div class="container">
+					<div class="row">
+
+						<!-- main start -->
+						<!-- ================ -->
+						<div class="main col-md-12">
+
+							<!-- page-title start -->
+							<!-- ================ -->
+							<h1 class="page-title">{{ page.types }} en {{ page.categories }} réf. {{ page.reference }}</h1>
+							<div class="separator-2"></div>
+							<!-- page-title end -->
+
+							<div class="row">
+								<div class="col-md-4"  >
+									<!-- pills start -->
+									<!-- ================ -->
+									<!-- Nav tabs -->
+									<ul class="nav nav-pills" role="tablist">
+										<li class="active"><a href="#pill-1" role="tab" data-toggle="tab" title="images"><i class="fa fa-camera pr-5"></i> Photo</a></li>
+										
+									</ul>
+									<!-- Tab panes -->
+									<div class="tab-content clear-style">
+										<div class="tab-pane active" id="pill-1">
+											<div class="owl-carousel content-slider-with-large-controls">
+												{% for images in page.images %}
+												<div class="overlay-container overlay-visible">
+													<img src="{{ images }}" alt="" style="height: 303px;" background-size="cover">
+													<a href="{{ images }}" class="popup-img overlay-link" title="image title"><i class="icon-plus-1"></i></a>
+												</div>
+												{% endfor %}
+											</div>
+										</div>
+										
+									</div>
+									<!-- pills end -->
+								</div>
+								<div class="col-md-8 pv-30">
+									<h2>Description</h2>
+									<p class="text-justify">{{ page.content }}</p>
+									<hr class="mb-10">
+									
+									
+									<div class="light-gray-bg p-20 bordered clearfix">
+										<span class="product price"><i class="icon-tag pr-10"></i>
+											{{ page.prix }}
+											{% if page.categories contains 'Location' %}
+												 / mois
+											{% endif %}
+										</span>
+										<div class="product elements-list pull-right clearfix">
+											<input type="submit" value="Contactez" class="margin-clear btn btn-default">
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<!-- main end -->
+
+					</div>
+				</div>
+			</section>
+			<!-- main-container end -->
+			<!-- section start -->
+			<!-- ================ -->
+			<section class="pv-30 light-gray-bg">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-12">
+							<!-- Nav tabs -->
+							<ul class="nav nav-tabs style-4" role="tablist">
+								<li class="active"><a href="#h2tab2" role="tab" data-toggle="tab"><i class="fa fa-files-o pr-5"></i>Caractéristiques</a></li>
+								
+							</ul>
+							<!-- Tab panes -->
+							<div class="tab-content padding-top-clear padding-bottom-clear">
+								<div class="tab-pane fade in active" id="h2tab2">
+									<div class="col-md-6">
+									<hr>
+									<dl class="dl-horizontal">
+										<dt>Chambres: </dt>
+										<dd>{{ page.chambres }}</dd>
+										<dt>Surface: </dt>
+										<dd>{{ page.surface }}</dd>
+										
+										<dt>Prix actuel</dt>
+										<dd>
+											{{ page.prix }}
+											{% if page.categories contains 'Location' %}
+												 / mois
+											{% endif %}
+										</dd>
+										<dt>Catégories: </dt>
+										<dd>{{ page.categories }}</dd>
+										<dt>Type: </dt>
+										<dd>{{ page.types }}</dd>
+										<dt>Quartier: </dt>
+										<dd>{{ page.quartiers }}</dd>
+										<dt>Ville: </dt>
+										<dd>Dakar</dd>
+										<dt>Situation: </dt>
+										<dd>{{ page.situation }}</dd>
+										<dt>Meublé: </dt>
+										{% if page.meuble %}
+										<dd>Oui</dd>
+										{% else %}
+										<dd>Non</dd>
+										{% endif %}
+
+										
+									</dl>
+									<hr>
+									</div>
+									<div class="col-md-6">
+									<hr>
+									<dl class="dl-horizontal">
+										
+										<dt>Terrasse: </dt>
+										{% if page.terrasse %}
+										<dd>Oui</dd>
+										{% else %}
+										<dd>Non</dd>
+										{% endif %}
+
+										<dt>Jardin: </dt>
+										{% if page.jardin %}
+										<dd>Oui</dd>
+										{% else %}
+										<dd>Non</dd>
+										{% endif %}
+
+										<dt>Piscine: </dt>
+										{% if page.piscine %}
+										<dd>Oui</dd>
+										{% else %}
+										<dd>Non</dd>
+										{% endif %}
+
+										<dt>Groupe électrogène: </dt>
+										{% if page.groupe %}
+										<dd>Oui</dd>
+										{% else %}
+										<dd>Non</dd>
+										{% endif %}
+
+										<dt>Climatisation: </dt>
+										{% if page.climatisation %}
+										<dd>Oui</dd>
+										{% else %}
+										<dd>Non</dd>
+										{% endif %}
+
+										<dt>Parking: </dt>
+										{% if page.parking %}
+										<dd>Oui</dd>
+										{% else %}
+										<dd>Non</dd>
+										{% endif %}
+
+										<dt>Gardien: </dt>
+										{% if page.gardien %}
+										<dd>Oui</dd>
+										{% else %}
+										<dd>Non</dd>
+										{% endif %}
+
+										<dt>Cuisine équipé: </dt>
+										{% if page.cuisine %}
+										<dd>Oui</dd>
+										{% else %}
+										<dd>Non</dd>
+										{% endif %}
+
+										<dt>Salle de sport: </dt>
+										{% if page.gym %}
+										<dd>Oui</dd>
+										{% else %}
+										<dd>Non</dd>
+										{% endif %}
+										
+										
+									</dl>
+									<hr>
+									</div>
+								</div>
+								
+							</div>
+						</div>
+
+					</div>
+				</div>
+			</section>
+			<!-- section end -->
