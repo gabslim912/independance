@@ -1,5 +1,5 @@
 ---
-title: Location
+title: Location de biens
 date: 2017-04-28 03:11:00 +0000
 position: 0
 ---

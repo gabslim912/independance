@@ -114,7 +114,7 @@ h1.logo-font {
 }
 h1.large {
   font-size: 45px;
-  font-weight: 300;
+  font-weight: 500;
   letter-spacing: 0.1em;
 }
 h2 {
@@ -128,6 +128,12 @@ h2.logo-font {
 h3 {
   font-size: 24px;
 }
+h1.large {
+  font-size: 45px;
+  font-weight: 500;
+  letter-spacing: 0.1em;
+}
+
 h4 {
   font-size: 19px;
 }
@@ -714,6 +720,9 @@ tbody {
 ---------------------------------- */
 .background-img-1 {
   background: url("../images/background-img-1.jpg") 50% 0px no-repeat;
+}
+.background-img-services {
+  background: url("../images/background-img-services.jpg") 50% 0px no-repeat;
 }
 .background-img-2 {
   background: url("../images/background-img-2.jpg") 50% 0px no-repeat;
@@ -7098,8 +7107,8 @@ h6.media-heading {
 }
 .medium_white {
   font-size: 24px;
-  color: #ffffff;
-  font-weight: 300;
+  color: #4794cc;
+  font-weight: 500;
 }
 .small_white {
   font-size: 16px;

@@ -1,5 +1,5 @@
 ---
-title: Copropriété
+title: Syndic de Copropriété
 date: 2017-04-28 03:09:00 +0000
 position: 3
 ---

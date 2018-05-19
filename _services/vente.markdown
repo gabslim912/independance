@@ -1,5 +1,5 @@
 ---
-title: Vente
+title: Vente de biens
 date: 2017-04-28 03:08:00 +0000
 position: 1
 ---

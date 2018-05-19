@@ -1,5 +1,5 @@
 ---
-title: Gestion de patrimoine
+title: Gestion de Patrimoine
 date: 2017-04-28 03:08:00 +0000
 position: 2
 ---
