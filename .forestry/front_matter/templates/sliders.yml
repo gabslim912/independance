@@ -1,12 +1,6 @@
 ---
-pages:
-- _minisliders/mini4.md
-- _minisliders/mini3.md
-- _minisliders/mini2.md
-- _sliders/slide3.md
-- _sliders/slide2.markdown
-- _sliders/slide1.markdown
 hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title
@@ -21,3 +15,10 @@ fields:
 - type: file
   label: image
   name: image
+pages:
+- _minisliders/mini2.md
+- _minisliders/mini3.md
+- _minisliders/mini4.md
+- _sliders/slide1.markdown
+- _sliders/slide2.markdown
+- _sliders/slide3.md
