@@ -39,14 +39,23 @@
 									<!-- Tab panes -->
 									<div class="tab-content clear-style">
 										<div class="tab-pane active" id="pill-1">
+											{% if page.images != empty %}
 											<div class="owl-carousel content-slider-with-large-controls">
+											
 												{% for images in page.images %}
 												<div class="overlay-container overlay-visible">
 													<img src="{{ images }}" alt="" style="height: 303px;" background-size="cover">
-													<a href="{{ images }}" class="popup-img overlay-link" title="image title"><i class="icon-plus-1"></i></a>
+													<a href="{{ images }}" class="popup-img overlay-link" title="{{ page.title}}"><i class="icon-plus-1"></i></a>
 												</div>
 												{% endfor %}
 											</div>
+											{% else %}
+											<div class="overlay-container overlay-visible">
+												<img src="/images/image_not_found.jpg" alt="image_not_found" style="height: 303px;" background-size="cover">
+												<a href="/images/image_not_found.jpg" class="popup-img overlay-link" title="Ce bien ne contient pas d'image"><i class="icon-plus-1"></i></a>
+											</div>
+											{% endif %}
+											
 										</div>
 										
 									</div>
