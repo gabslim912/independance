@@ -30,10 +30,10 @@
                   <div class="overlay-container">
                   {% if bien.image != empty %}
                     <img src="{{ bien.image}}" alt="{{ bien.title }}" style="width: 400px; height: 200px;">
-                    <a class="overlay-link popup-img-single" href="{{ bien.image}}"><i class="fa fa-search-plus"></i></a>
+                    <a class="overlay-link " href="{{ bien.url }}" target="blank"><i class="fa fa-search-plus"></i></a>
                   {% else %}
                     <img src="/images/image_not_found.jpg" alt="image_not_found" style="width: 400px; height: 200px;">
-                    <a class="overlay-link popup-img-single" href="/images/image_not_found.jpg"><i class="fa fa-search-plus"></i></a>
+                    <a class="overlay-link " href="{{ bien.url }}" target="blank"><i class="fa fa-search-plus"></i></a>
                   {% endif %}
                     {% if bien.situation == 'Loué' %}
                       <span class="btn btn-warning btn-lg badge">Déja Loué</span>
