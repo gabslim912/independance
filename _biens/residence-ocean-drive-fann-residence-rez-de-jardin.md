@@ -24,7 +24,6 @@ piscine: true
 terrasse: false
 cuisine: true
 gym: true
-published: false
 ---
 **Résidence Océan Drive Fann Résidence Rez de Jardin** 
 
