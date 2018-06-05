@@ -28,7 +28,6 @@ piscine: true
 terrasse: true
 cuisine: true
 gym: false
-published: false
 ---
 VILLA A VENDRE ZONE INDUSTRIELLE
 
