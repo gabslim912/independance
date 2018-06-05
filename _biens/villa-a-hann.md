@@ -26,7 +26,6 @@ piscine: true
 terrasse: false
 cuisine: true
 gym: false
-published: false
 ---
 A LOUER TRES BELLE VILLA STYLE CONTEMPORAIN
 
