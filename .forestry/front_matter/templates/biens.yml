@@ -154,6 +154,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _biens/villa-2-test.md
 - _biens/villa-test.md
 - _biens/villa-a-vendre-zone-industrielle.md
 - _biens/villa-a-hann.md
