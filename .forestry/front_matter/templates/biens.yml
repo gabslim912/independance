@@ -154,6 +154,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _biens/villa-a-hann.md
 - _biens/villa-a-louer-yoff-virage.md
 - _biens/appartement-meuble-point-e.md
 - _biens/a-vendre-appartement-centre-ville.md
