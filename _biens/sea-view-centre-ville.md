@@ -5,7 +5,7 @@ date: 2017-08-31 17:35:02 +0000
 reference: AP0817SV
 image: "/uploads/2017/08/31/IMG_6317.JPG"
 categories: Location
-situation: Disponible
+situation: Déjà Loué
 types: Appartement
 chambres: 3
 quartiers: Dakar Plateau
