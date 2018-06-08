@@ -3,17 +3,17 @@ layout: produit
 title: VILLA A HANN
 date: 2018-06-05 09:29:58 +0000
 reference: 05052018VLHP
-image: "/uploads/2018/06/08/photo.jpg"
+image: "/uploads/2018/06/08/photo-1"
 categories: Location
 situation: Disponible
 types: Villa
 chambres: 4
 quartiers: Hann Maristes
 images:
-- "/uploads/2018/06/05/IMG_4256-12"
-- "/uploads/2018/06/05/IMG_4248-2"
-- "/uploads/2018/06/05/IMG_4244-3"
-- "/uploads/2018/06/05/IMG_4238-3"
+- "/uploads/2018/06/08/photo5.jpg"
+- "/uploads/2018/06/08/photo4.jpg"
+- "/uploads/2018/06/08/photo3.jpg"
+- "/uploads/2018/06/08/photo2.jpg"
 prix: ''
 surface: ''
 gardien: true
