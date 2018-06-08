@@ -10,6 +10,7 @@ types: Villa
 chambres: 4
 quartiers: Hann Maristes
 images:
+- "/uploads/2018/06/08/photo-2"
 - "/uploads/2018/06/08/photo5.jpg"
 - "/uploads/2018/06/08/photo4.jpg"
 - "/uploads/2018/06/08/photo3.jpg"
