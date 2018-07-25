@@ -2,10 +2,10 @@
 layout: produit
 title: 'Résidence Océan Drive Fann Résidence Rez de Jardin '
 date: 2018-06-05 13:53:37 +0000
-reference: 05062018APPOD
+reference: '05062018APPOD'
 image: "/uploads/2018/06/05/océan drive (2).jpg"
 categories: Location
-situation: Disponible
+situation: Déjà Loué
 types: Appartement
 chambres: ''
 quartiers: Mermoz
@@ -24,6 +24,7 @@ piscine: true
 terrasse: false
 cuisine: true
 gym: true
+
 ---
 **Résidence Océan Drive Fann Résidence Rez de Jardin** 
 
