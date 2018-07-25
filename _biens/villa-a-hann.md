@@ -2,10 +2,10 @@
 layout: produit
 title: VILLA A HANN
 date: 2018-06-05 09:29:58 +0000
-reference: 05052018VLHP
+reference: '05052018VLHP'
 image: "/uploads/2018/06/08/photo-1"
 categories: Location
-situation: Disponible
+situation: Déjà Loué
 types: Villa
 chambres: 4
 quartiers: Hann Maristes
@@ -27,6 +27,7 @@ piscine: true
 terrasse: false
 cuisine: true
 gym: false
+
 ---
 A LOUER TRES BELLE VILLA STYLE CONTEMPORAIN
 
