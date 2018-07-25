@@ -5,7 +5,7 @@ date: 2017-08-31 10:34:16 +0000
 reference: AM0817GAL
 image: "/uploads/2017/08/31/DSC02883.JPG"
 categories: Location
-situation: Déjà Loué
+situation: Disponible
 types: Appartement
 chambres: 2
 quartiers: Dakar Plateau
@@ -25,6 +25,7 @@ groupe: false
 piscine: false
 terrasse: false
 gym: false
+
 ---
 
 
