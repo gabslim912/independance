@@ -3,7 +3,7 @@ layout: produit
 title: VILLA A LOUER MERMOZ
 date: 2017-11-23 11:18:45 +0000
 categories: Location
-situation: Disponible
+situation: Déjà Loué
 types: Villa
 chambres: 3
 quartiers: Mermoz
@@ -24,6 +24,7 @@ groupe: false
 meuble: false
 parking: false
 gym: false
+
 ---
 **VILLA A LOUER MERMOZ**
 
