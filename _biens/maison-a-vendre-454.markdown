@@ -22,11 +22,12 @@ piscine: true
 prix: 1.500.000 F
 quartiers: Almadies
 reference: ASL0428
-situation: Disponible
+situation: Déjà Loué
 surface: 500 m²
 terrasse: true
 title: Appartements sis à l’Immeuble le PONANT aux Almadies
 types: Appartement
+
 ---
 
 
