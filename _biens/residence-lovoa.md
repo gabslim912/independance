@@ -5,7 +5,7 @@ date: 2017-08-31 17:50:47 +0000
 reference: APDUP0817
 image: "/uploads/2017/08/31/SAM_1722.JPG"
 categories: Location
-situation: Déjà Loué
+situation: Disponible
 types: Appartement
 quartiers: Mermoz
 images:
@@ -23,6 +23,7 @@ jardin: false
 meuble: false
 piscine: false
 gym: false
+
 ---
 
 
