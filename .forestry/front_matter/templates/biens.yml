@@ -156,6 +156,7 @@ fields:
   default: ''
 pages:
 - _biens/villa-a-louer-mermoz-1.md
+- appartement-a-vendre.md
 - _biens/appartement-meuble-point-e.md
 - _biens/appart-a-vendre-145.markdown
 - _biens/villa-test.md

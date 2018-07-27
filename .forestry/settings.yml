@@ -3,39 +3,57 @@ new_page_extension: md
 auto_deploy: true
 admin_path: "/admin"
 webhook_url: 
-collections:
-- path: _quartiers
-  label: Quartiers
+sections:
+- type: jekyll-pages
+  label: Pages
   create: all
-- path: _services
-  label: Services
-  create: all
-- path: _posts
-  label: Posts
-  create: all
-- path: _uploads
-  label: Uploads
-  create: all
-- path: _biens
-  label: Biens
-  create: all
-- path: _categories
-  label: Categories
-  create: all
-- path: _sliders
-  label: Sliders
-  create: all
-- path: _minisliders
-  label: Minisliders
-  create: all
-- path: _teams
-  label: Teams
-  create: all
-- path: _types
+- type: directory
+  path: _types
   label: Types
   create: all
-- path: ''
-  label: Pages
+  match: "**/*"
+- type: directory
+  path: _teams
+  label: Teams
+  create: all
+  match: "**/*"
+- type: directory
+  path: _minisliders
+  label: Minisliders
+  create: all
+  match: "**/*"
+- type: directory
+  path: _sliders
+  label: Sliders
+  create: all
+  match: "**/*"
+- type: directory
+  path: _services
+  label: Services
+  create: all
+  match: "**/*"
+- type: directory
+  path: _quartiers
+  label: Quartiers
+  create: all
+  match: "**/*"
+- type: directory
+  path: _categories
+  label: Categories
+  create: all
+  match: "**/*"
+- type: directory
+  path: _biens
+  label: Biens
+  create: all
+  match: "**/*"
+- type: directory
+  path: _uploads
+  label: Uploads
+  create: all
+  match: "**/*"
+- type: jekyll-posts
+  label: Posts
   create: all
 upload_dir: uploads
 public_path: "/uploads"
