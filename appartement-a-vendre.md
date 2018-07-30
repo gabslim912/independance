@@ -24,10 +24,10 @@ cuisine: true
 gym: false
 
 ---
-**APPARTEMENT A VENDRE** 
+**APPARTEMENT A VENDRE**
 
-Situé en centre ville proximité Hotel TERANGA et Place de l'Indépendance, dans un immeuble ancien de caractère, composé d'1 charmant séjour,1 chambre, 1 cuisine, 1 SDB, 1 petit balcon. Vendu libre d'occupation.
+Situé en centre ville à proximité Hôtel TERANGA et Place de l'Indépendance, dans un immeuble ancien de caractère, composé d'1 charmant séjour, 1 chambre, 1 cuisine, 1 SDB, 1 petit balcon. Vendu libre d'occupation.
 
-Nous contacter pour visites
+Nous contacter pour visiter
 
-Superficie : 61 m2
+Superficie: 61 m2
