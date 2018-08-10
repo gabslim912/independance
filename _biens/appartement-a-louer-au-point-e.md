@@ -2,7 +2,7 @@
 layout: produit
 title: 'APPARTEMENT A LOUER AU POINT E '
 date: 2018-08-10 15:12:24 +0000
-reference: ''
+reference: APART100818PTE
 image: "/uploads/2018/08/10/IMG-20180725-WA0020.jpg"
 categories: Location
 situation: Disponible
