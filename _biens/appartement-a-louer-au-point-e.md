@@ -2,6 +2,32 @@
 layout: produit
 title: 'APPARTEMENT A LOUER AU POINT E '
 date: 2018-08-10 15:12:24 +0000
+reference: ''
+image: "/uploads/2018/08/10/IMG-20180725-WA0020.jpg"
+categories: Location
+situation: Disponible
+types: Appartement
+chambres: 4
+quartiers: Point-E
+images:
+- "/uploads/2018/08/10/IMG-20180725-WA0025.jpg"
+- "/uploads/2018/08/10/IMG-20180725-WA0005.jpg"
+- "/uploads/2018/08/10/IMG-20180725-WA0002.jpg"
+prix: 1.500.000 F
+surface: ''
+gardien: true
+climatisation: false
+groupe: true
+jardin: false
+meuble: false
+parking: true
+piscine: true
+terrasse: false
+cuisine: true
+gym: false
 published: false
 
 ---
+**APPARTEMENT A LOUER AU POINT E**
+
+Très bel appartement de standing dans un quartier calme et résidentiel composé d’1 séjour, salle à manger, 1 cuisine équipée et aménagée, 1 buanderie, 1 chambre principale avec placards et SDB, 2 chambres secondaires avec placards et salle de douche, 1 WC visiteurs, 1 dépendance domestique composée d’1 chambre et 1 salle de douche. GE, gardien H24, piscine commune.
