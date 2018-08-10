@@ -25,7 +25,6 @@ piscine: true
 terrasse: false
 cuisine: true
 gym: false
-published: false
 
 ---
 **APPARTEMENT A LOUER AU POINT E**
