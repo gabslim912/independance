@@ -25,7 +25,6 @@ piscine: false
 terrasse: true
 cuisine: true
 gym: false
-published: false
 
 ---
 **VILLA R+1 AUX ALMADIES** 
