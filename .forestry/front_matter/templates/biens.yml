@@ -155,6 +155,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _biens/appartement-a-louer.md
 - _biens/villa-aux-almadies.md
 - _biens/appartement-a-louer-au-point-e.md
 - _biens/appartement-a-vendre.md
