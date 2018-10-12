@@ -25,7 +25,6 @@ piscine: false
 terrasse: true
 cuisine: true
 gym: true
-published: false
 
 ---
 **APPARTEMENT A VENDRE A MERMOZ** 
