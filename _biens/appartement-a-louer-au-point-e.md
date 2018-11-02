@@ -13,7 +13,7 @@ images:
 - "/uploads/2018/08/10/IMG-20180725-WA0025.jpg"
 - "/uploads/2018/08/10/IMG-20180725-WA0005.jpg"
 - "/uploads/2018/08/10/IMG-20180725-WA0002.jpg"
-prix: 1.500.000 F
+prix: 1.800.000 F
 surface: ''
 gardien: true
 climatisation: false
