@@ -4,7 +4,7 @@ title: APPARTEMENT RESIDENCE DE LA CORNICHE
 date: 2018-10-25 16:04:37 +0000
 reference: APRC251018
 image: "/uploads/2018/10/25/IMG-20181017-WA0010.jpg"
-categories: Location
+categories: Vente
 situation: Disponible
 types: Appartement
 chambres: 2
