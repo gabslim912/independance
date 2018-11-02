@@ -5,7 +5,7 @@ date: 2018-09-11 15:59:44 +0000
 reference: VLAL110918
 image: "/uploads/2018/09/11/20180905_102211.jpg"
 categories: Location
-situation: Disponible
+situation: Déjà Loué
 types: Villa
 chambres: 4
 quartiers: ''
