@@ -27,10 +27,10 @@ cuisine: true
 gym: true
 
 ---
-**APPARTEMENT A VENDRE A MERMOZ** 
+**APPARTEMENT A VENDRE AUX ALMADIES** 
 
- Très joli appartement de 202 m2 situé au 3e étage d’un nouvel immeuble à Mermoz  composé, d’1 entrée, 1 séjour/salle à manger, 1 terrasse, 1 cuisine équipée, 1 buanderie, 3 chambres avec chacune salle de douche et placards, 1 WC visiteurs, 1 toilette domestiques.
+Très joli appartement de 202 m2 situé au 3e étage d’un nouvel immeuble aux Almadies composé, d’1 entrée, 1 séjour/salle à manger, 1 terrasse, 1 cuisine équipée, 1 buanderie, 3 chambres avec chacune salle de douche et placards, 1 WC visiteurs, 1 toilette domestiques.
 
 Commodités : GE, salle de gym, gardiennage H24, splits
 
- **PRIX : 250.000.000 F.CFA**
+**PRIX : 250.000.000 F.CFA**

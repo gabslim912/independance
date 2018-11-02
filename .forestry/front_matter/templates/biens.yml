@@ -155,8 +155,8 @@ fields:
   hidden: false
   default: ''
 pages:
-- _biens/appartement-residence-de-la-corniche.md
 - _biens/appartement-a-vendre-mermoz.md
+- _biens/appartement-residence-de-la-corniche.md
 - _biens/appartement-aux-almadies.md
 - _biens/appartement-ville-bd-republique.md
 - _biens/appartement-a-louer.md
