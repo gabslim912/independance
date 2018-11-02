@@ -10,7 +10,7 @@ types: Appartement
 quartiers: Mermoz
 images:
 - "/uploads/2017/08/31/SAM_1722-1.JPG"
-prix: 1.800.000 f
+prix: '1.100.000 '
 gardien: true
 climatisation: true
 groupe: true
@@ -25,9 +25,6 @@ piscine: false
 gym: false
 
 ---
-
-
 Résidence LOVOA
 
-Dans une résidence moderne à Mermoz avec ascenseur, climatisation dans toutes les pièces, place de parking intérieure, et sécurité 24h/24h, un appartement en duplex avec vue sur mer au 4éme et 5éme étage, séjour /salle à manger, une grande et belle terrasse, 5 chambres, 4 salles de bain, 1 cuisine aménagée, buanderie et toilette domestiques. Dans une résidence moderne avec
-
+Dans une résidence à Mermoz avec ascenseur, climatisation dans toutes les pièces, place de parking intérieure, et sécurité 24h/24h, un appartement avec vue sur mer au 4éme étage, séjour /salle à manger, 3 chambres, 2 salles de bain, 1 cuisine aménagée, buanderie et toilette domestiques, GE, 
