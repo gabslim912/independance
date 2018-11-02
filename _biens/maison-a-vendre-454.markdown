@@ -22,15 +22,13 @@ piscine: true
 prix: 1.500.000 F
 quartiers: Almadies
 reference: ASL0428
-situation: Déjà Loué
+situation: Disponible
 surface: 500 m²
 terrasse: true
 title: Appartements sis à l’Immeuble le PONANT aux Almadies
 types: Appartement
 
 ---
-
-
 Appartements sis à l’Immeuble le PONANT aux Almadies
 
-Dans un immeuble neuf grand standing aux Almadies, avec salle de gym, lounge, parking sous-sol, très bel appartement au 1er, grand séjour avec terrasse vue mer, 3 chambres avec placards et salles de bain, cuisine entièrement équipée et climatisation dans toutes les pièces, G.E. et gardiennage H 24.
+Dans un immeuble neuf grand standing aux Almadies, avec salle de gym, lounge, parking sous-sol, très bel appartement au 5e, grand séjour avec terrasse et vue sur mer, 3 chambres avec placards et salles de bain, dont chambre parent avec dressing, cuisine entièrement équipée et climatisation dans toutes les pièces, G.E. et gardiennage H 24.
