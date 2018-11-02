@@ -5,7 +5,7 @@ date: 2018-06-05 13:53:37 +0000
 reference: '05062018APPOD'
 image: "/uploads/2018/06/05/océan drive (2).jpg"
 categories: Location
-situation: Déjà Loué
+situation: Disponible
 types: Appartement
 chambres: ''
 quartiers: Mermoz
