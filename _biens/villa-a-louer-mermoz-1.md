@@ -14,7 +14,7 @@ jardin: true
 piscine: true
 terrasse: true
 cuisine: true
-image: "/uploads/2017/11/23/20171110_104633.jpg"
+image: "/uploads/2017/11/23/IMG_5018.JPG"
 images:
 - "/uploads/2017/11/23/IMG_5018.JPG"
 - "/uploads/2017/11/23/IMG_5017.JPG"
