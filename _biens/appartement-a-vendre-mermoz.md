@@ -1,6 +1,6 @@
 ---
 layout: produit
-title: APPARTEMENT A VENDRE MERMOZ
+title: 'APPARTEMENT A VENDRE AUX ALMADIES '
 date: 2018-10-12 10:32:31 +0000
 reference: APAVM121018
 image: "/uploads/2018/10/12/IMG_4158.JPG"
