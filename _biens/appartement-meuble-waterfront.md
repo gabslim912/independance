@@ -11,7 +11,7 @@ images:
 categories: Location
 situation: Disponible
 types: Appartement
-chambres: 1
+chambres: 2
 quartiers: Mermoz
 prix: 2.000.000 F
 gardien: true
