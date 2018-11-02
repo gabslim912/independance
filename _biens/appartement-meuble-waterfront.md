@@ -13,7 +13,7 @@ situation: Disponible
 types: Appartement
 chambres: 1
 quartiers: Mermoz
-prix: 1.750.000 F
+prix: 2.000.000 F
 gardien: true
 climatisation: true
 groupe: true
@@ -25,9 +25,10 @@ piscine: false
 terrasse: false
 cuisine: false
 gym: false
+
 ---
 **APPARTEMENT MEUBLE WATERFRONT**
 
 Bel appartement neuf meublé et équipé, avec vue sur mer, 1 grande terrasse, séjour, salle à manger,  1 chambre, cuisine ouverte, climatisation centrale, parking, GE, et gardiennage H24.
 
-**Prix : 1.750.000 F**
+**Prix : 2.000.000 F**

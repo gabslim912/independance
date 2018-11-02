@@ -155,6 +155,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _biens/appartement-meuble-waterfront.md
 - _biens/villa-a-louer-mermoz-1.md
 - _biens/maison-a-vendre-454.markdown
 - _biens/appartement-a-louer-au-point-e.md
@@ -173,7 +174,6 @@ pages:
 - _biens/meuble-kleber.md
 - _biens/appart-a-vendre-145.markdown
 - _biens/appartement-meuble-point-e.md
-- _biens/appartement-meuble-waterfront.md
 - _biens/villa-a-vendre.md
 - _biens/meuble-gallieni-haut-plateau.md
 - _biens/maison-a-vendre-784.markdown
