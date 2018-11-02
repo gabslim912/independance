@@ -19,7 +19,7 @@ layout: produit
 meuble: false
 parking: true
 piscine: true
-prix: 1.500.000 F
+prix: 2.200.000 F
 quartiers: Almadies
 reference: ASL0428
 situation: Disponible
