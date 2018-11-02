@@ -29,6 +29,6 @@ gym: false
 ---
 **APPARTEMENT MEUBLE WATERFRONT**
 
-Bel appartement neuf meublé et équipé, avec vue sur mer, 1 grande terrasse, séjour, salle à manger,  1 chambre, cuisine ouverte, climatisation centrale, parking, GE, et gardiennage H24.
+Bel appartement neuf meublé et équipé, avec vue sur mer, 1 grande terrasse, séjour, salle à manger,  2 chambres, cuisine ouverte,climatisation centrale, parking, GE, et gardiennage H24. 
 
 **Prix : 2.000.000 F**
