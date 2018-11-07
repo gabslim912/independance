@@ -14,7 +14,7 @@ parking: true
 cuisine: true
 image: ''
 images: []
-gardien: false
+gardien: true
 climatisation: false
 groupe: false
 jardin: false
@@ -22,6 +22,7 @@ meuble: false
 piscine: false
 terrasse: false
 gym: false
+
 ---
 
 **A VENDRE APPARTEMENT CENTRE VILLE**

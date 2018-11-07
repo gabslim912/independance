@@ -155,6 +155,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _biens/a-vendre-appartement-centre-ville.md
 - _biens/appartement-a-louer.md
 - _biens/appartement-a-vendre-mermoz.md
 - _biens/appartement-meuble-waterfront.md
@@ -169,7 +170,6 @@ pages:
 - _biens/maison-a-louer-142.markdown
 - _biens/residence-adja-louise-mermoz-route-de-ouakam.md
 - _biens/residence-lovoa.md
-- _biens/a-vendre-appartement-centre-ville.md
 - _biens/sea-view-centre-ville.md
 - _biens/meuble-kleber.md
 - _biens/appart-a-vendre-145.markdown
