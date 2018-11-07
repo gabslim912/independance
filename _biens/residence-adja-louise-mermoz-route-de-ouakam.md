@@ -21,11 +21,12 @@ piscine: false
 prix: 1.600.000 F
 quartiers: Mermoz
 reference: AP0817AL
-situation: Disponible
+situation: Déjà Loué
 surface: ''
 terrasse: false
 title: Résidence Adja LOUISE, Mermoz Route de OUAKAM
 types: Appartement
+
 ---
 
 
