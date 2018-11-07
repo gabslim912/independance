@@ -1,6 +1,6 @@
 ---
 layout: produit
-title: APPARTEMENT AUX ALMADIES
+title: APPARTEMENT AUX ALMADIES WEST SECRET
 date: 2018-10-01 17:48:00 +0000
 reference: APALM011018
 image: "/uploads/2018/10/02/20180817_091839-2.jpg"
