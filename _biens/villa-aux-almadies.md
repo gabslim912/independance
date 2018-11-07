@@ -8,7 +8,7 @@ categories: Location
 situation: Déjà Loué
 types: Villa
 chambres: 4
-quartiers: ''
+quartiers: Almadies
 images:
 - "/uploads/2018/09/11/20180905_103220.jpg"
 - "/uploads/2018/09/11/20180905_102544.jpg"
