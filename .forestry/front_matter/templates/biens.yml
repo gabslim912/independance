@@ -155,6 +155,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _biens/appartement-a-louer.md
 - _biens/appartement-a-vendre-mermoz.md
 - _biens/appartement-meuble-waterfront.md
 - _biens/villa-a-louer-mermoz-1.md
@@ -163,7 +164,6 @@ pages:
 - _biens/appartement-residence-de-la-corniche.md
 - _biens/appartement-aux-almadies.md
 - _biens/appartement-ville-bd-republique.md
-- _biens/appartement-a-louer.md
 - _biens/villa-aux-almadies.md
 - _biens/appartement-a-vendre.md
 - _biens/maison-a-louer-142.markdown
