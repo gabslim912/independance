@@ -15,7 +15,7 @@ images:
 - "/uploads/2018/06/08/photo4.jpg"
 - "/uploads/2018/06/08/photo3.jpg"
 - "/uploads/2018/06/08/photo2.jpg"
-prix: ''
+prix: 2.200.000 F
 surface: ''
 gardien: true
 climatisation: false
