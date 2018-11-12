@@ -155,6 +155,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _biens/appartements-residence-aden-mermoz.md
 - _biens/a-vendre-appartement-centre-ville.md
 - _biens/appartement-a-louer.md
 - _biens/appartement-a-vendre-mermoz.md
