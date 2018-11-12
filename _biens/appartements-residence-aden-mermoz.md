@@ -25,7 +25,6 @@ piscine: false
 terrasse: false
 cuisine: true
 gym: true
-published: false
 
 ---
 **RESIDENCE ADEN** 
