@@ -4,42 +4,12 @@ auto_deploy: true
 admin_path: "/admin"
 webhook_url: 
 sections:
-- type: jekyll-posts
-  label: Posts
+- type: jekyll-pages
+  label: Pages
   create: all
 - type: directory
-  path: _uploads
-  label: Uploads
-  create: all
-  match: "**/*"
-- type: directory
-  path: _biens
-  label: Biens
-  create: all
-  match: "**/*"
-- type: directory
-  path: _categories
-  label: Categories
-  create: all
-  match: "**/*"
-- type: directory
-  path: _quartiers
-  label: Quartiers
-  create: all
-  match: "**/*"
-- type: directory
-  path: _services
-  label: Services
-  create: all
-  match: "**/*"
-- type: directory
-  path: _sliders
-  label: Sliders
-  create: all
-  match: "**/*"
-- type: directory
-  path: _minisliders
-  label: Minisliders
+  path: _types
+  label: Types
   create: all
   match: "**/*"
 - type: directory
@@ -48,12 +18,42 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: _types
-  label: Types
+  path: _minisliders
+  label: Minisliders
   create: all
   match: "**/*"
-- type: jekyll-pages
-  label: Pages
+- type: directory
+  path: _sliders
+  label: Sliders
+  create: all
+  match: "**/*"
+- type: directory
+  path: _services
+  label: Services
+  create: all
+  match: "**/*"
+- type: directory
+  path: _quartiers
+  label: Quartiers
+  create: all
+  match: "**/*"
+- type: directory
+  path: _categories
+  label: Categories
+  create: all
+  match: "**/*"
+- type: directory
+  path: _biens
+  label: Biens
+  create: all
+  match: "**/*"
+- type: directory
+  path: _uploads
+  label: Uploads
+  create: all
+  match: "**/*"
+- type: jekyll-posts
+  label: Posts
   create: all
 upload_dir: uploads
 public_path: "/uploads"
