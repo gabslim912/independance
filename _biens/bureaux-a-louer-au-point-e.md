@@ -24,7 +24,6 @@ piscine: false
 terrasse: false
 cuisine: false
 gym: false
-published: false
 
 ---
 **BUREAUX A LOUER AU POINT E**
