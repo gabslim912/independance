@@ -155,11 +155,11 @@ fields:
   hidden: false
   default: ''
 pages:
+- _biens/appartement-a-vendre-mermoz.md
 - _biens/bureaux-a-louer-au-point-e.md
 - _biens/appartements-residence-aden-mermoz.md
 - _biens/a-vendre-appartement-centre-ville.md
 - _biens/appartement-a-louer.md
-- _biens/appartement-a-vendre-mermoz.md
 - _biens/appartement-meuble-waterfront.md
 - _biens/villa-a-louer-mermoz-1.md
 - _biens/maison-a-vendre-454.markdown
