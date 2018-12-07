@@ -28,3 +28,8 @@ gym: false
 published: false
 
 ---
+**VILLA A VENDRE ILE DE NGOR**
+
+Belle villa de caractère sur l’ile de Ngor, vue sur mer, accès direct sur plage, double séjour, Salle à manger au RDC et à l’étage, 3 chambres et dépendances.
+
+**PRIX VENTE** : **150.000.000 F**
