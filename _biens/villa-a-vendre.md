@@ -4,7 +4,7 @@ title: VILLA A VENDRE MARISTE
 date: 2017-08-31 17:46:47 +0000
 reference: VL0817MAR
 categories: Vente
-situation: Disponible
+situation: Déjà Vendu
 types: Villa
 chambres: 3
 quartiers: Hann Maristes
@@ -22,6 +22,7 @@ meuble: false
 parking: false
 piscine: false
 gym: false
+
 ---
 
 
