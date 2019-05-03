@@ -13,5 +13,4 @@ fields:
     maxSize: 250
   label: Image
 pages:
-- _biens/logo-png.md
 - _uploads/logo-jpg.md
