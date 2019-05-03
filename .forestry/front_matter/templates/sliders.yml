@@ -16,9 +16,9 @@ fields:
   label: image
   name: image
 pages:
-- _sliders/slide2.markdown
 - _sliders/slide3.md
-- _sliders/slide1.markdown
 - _minisliders/mini3.md
+- _sliders/slide2.markdown
+- _sliders/slide1.markdown
 - _minisliders/mini2.md
 - _minisliders/mini4.md
