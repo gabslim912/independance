@@ -154,6 +154,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _biens/exclusivite-independance-immobiliere-terrain-a-vendre.md
 - _biens/maison-a-vendre-784.markdown
 - _biens/appartement-a-louer.md
 - _biens/villa-a-vendre-saly.md
