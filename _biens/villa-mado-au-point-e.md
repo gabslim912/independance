@@ -1,11 +1,11 @@
 ---
 layout: produit
 title: VILLA MADO AU POINT E
-date: 2019-01-17 09:51:04 +0000
+date: '2019-01-17T09:51:04.000+00:00'
 reference: VLMPE170119
 image: "/uploads/2019/01/17/SAM_5282.JPG"
 categories: Location
-situation: Disponible
+situation: Déjà Loué
 types: Villa
 chambres: 4
 quartiers: Point-E

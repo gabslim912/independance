@@ -154,6 +154,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _biens/villa-mado-au-point-e.md
 - _biens/a-vendre-appartement-centre-ville.md
 - _biens/appart-a-vendre-145.markdown
 - _biens/meuble-gallieni-haut-plateau.md
@@ -173,7 +174,6 @@ pages:
 - _biens/appartement-ville-bd-republique.md
 - _biens/villa-a-vendre-zone-industrielle.md
 - _biens/villa-a-hann.md
-- _biens/villa-mado-au-point-e.md
 - _biens/appartement-meuble-waterfront.md
 - _biens/appartement-aux-almadies.md
 - _biens/residence-lovoa.md
