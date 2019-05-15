@@ -1,9 +1,9 @@
 ---
 categories: Location
-chambres: 4
+chambres: 3
 climatisation: true
 cuisine: true
-date: 2017-04-28 03:18:00 +0000
+date: '2017-04-28T03:18:00.000+00:00'
 faux_prix: 500000000 XOF
 gardien: true
 groupe: true
