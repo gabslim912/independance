@@ -1,11 +1,11 @@
 ---
 layout: produit
 title: VILLA A VENDRE ILE DE NGOR
-date: 2018-12-07 15:04:42 +0000
+date: '2018-12-07T15:04:42.000+00:00'
 reference: VLNG07122018
 image: "/uploads/2018/12/07/20181206_143353.jpg"
 categories: Vente
-situation: Disponible
+situation: Déjà Vendu
 types: Villa
 chambres: 3
 quartiers: Ngor
