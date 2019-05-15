@@ -1,11 +1,11 @@
 ---
 layout: produit
 title: 'APPARTEMENT A LOUER AU POINT E '
-date: 2018-08-10 15:12:24 +0000
+date: '2018-08-10T15:12:24.000+00:00'
 reference: APART100818PTE
 image: "/uploads/2018/08/10/IMG-20180725-WA0020.jpg"
 categories: Location
-situation: Disponible
+situation: Déjà Loué
 types: Appartement
 chambres: 4
 quartiers: Point-E
