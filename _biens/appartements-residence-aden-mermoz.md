@@ -1,11 +1,11 @@
 ---
 layout: produit
 title: APPARTEMENTS RESIDENCE ADEN MERMOZ
-date: 2018-11-12 09:39:55 +0000
+date: '2018-11-12T09:39:55.000+00:00'
 reference: APRA1211
 image: "/uploads/2018/11/12/20181108_172359-1.jpg"
 categories: Location
-situation: Disponible
+situation: Déjà Loué
 types: Appartement
 chambres: 4
 quartiers: Mermoz

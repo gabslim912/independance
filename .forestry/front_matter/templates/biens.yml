@@ -154,6 +154,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _biens/appartements-residence-aden-mermoz.md
 - _biens/villa-a-vendre-ile-de-ngor.md
 - _biens/villa-mado-au-point-e.md
 - _biens/a-vendre-appartement-centre-ville.md
@@ -178,7 +179,6 @@ pages:
 - _biens/appartement-aux-almadies.md
 - _biens/residence-lovoa.md
 - _biens/sea-view-centre-ville.md
-- _biens/appartements-residence-aden-mermoz.md
 - _biens/maison-a-louer-142.markdown
 - _biens/appartement-a-vendre-mermoz.md
 - _biens/residence-ocean-drive-fann-residence-rez-de-jardin.md
