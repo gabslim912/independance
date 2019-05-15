@@ -1,11 +1,11 @@
 ---
 layout: produit
 title: APPARTEMENT RESIDENCE DE LA CORNICHE
-date: 2018-10-25 16:04:37 +0000
+date: '2018-10-25T16:04:37.000+00:00'
 reference: APRC251018
 image: "/uploads/2018/10/25/IMG-20181017-WA0010.jpg"
-categories: Vente
-situation: Disponible
+categories: Location
+situation: Déjà Loué
 types: Appartement
 chambres: 2
 quartiers: Dakar Plateau

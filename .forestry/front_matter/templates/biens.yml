@@ -154,6 +154,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _biens/appartement-residence-de-la-corniche.md
 - _biens/appartements-residence-aden-mermoz.md
 - _biens/villa-a-vendre-ile-de-ngor.md
 - _biens/villa-mado-au-point-e.md
@@ -184,7 +185,6 @@ pages:
 - _biens/residence-ocean-drive-fann-residence-rez-de-jardin.md
 - _biens/bureaux-et-hangars-a-louer.md
 - _biens/residence-adja-louise-mermoz-route-de-ouakam.md
-- _biens/appartement-residence-de-la-corniche.md
 - _biens/bureaux-a-louer-au-point-e.md
 - _biens/meuble-kleber.md
 - _biens/villa-a-vendre.md
