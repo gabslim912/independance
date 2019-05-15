@@ -1,16 +1,16 @@
 ---
 layout: produit
 title: 'APPARTEMENT A VENDRE '
-date: 2018-07-31 09:02:14 +0000
+date: '2018-07-31T09:02:14+00:00'
 reference: APAV270718CV
 image: ''
 categories: Vente
-situation: Disponible
+situation: Déjà Vendu
 types: Appartement
 chambres: 1
 quartiers: Dakar Plateau
 images: []
-prix: 69000000
+prix: "69000000"
 surface: 61m2
 gardien: false
 climatisation: false
@@ -26,7 +26,7 @@ gym: false
 ---
 **APPARTEMENT A VENDRE VILLE**
 
-Appartement centre ville proximité Hotel TERANGA et Place de l'Indépendance, dans immeuble ancien de caractère, composé d'1 chambre, 1 SDB, 1 petit balcon.
+Appartement centre ville à proximité de l'Hôtel TERANGA et de la Place de l'Indépendance, dans un immeuble ancien de caractère, composé d'une chambre, 1 SDB, 1 petit balcon.
 
 Vendu libre d'occupation.
 
