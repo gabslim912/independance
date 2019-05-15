@@ -154,6 +154,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _biens/appart-a-vendre-145.markdown
 - _biens/meuble-gallieni-haut-plateau.md
 - _biens/appartement-meuble-point-e.md
 - _biens/appartement-a-vendre.md
@@ -186,6 +187,5 @@ pages:
 - _biens/appartement-residence-de-la-corniche.md
 - _biens/bureaux-a-louer-au-point-e.md
 - _biens/meuble-kleber.md
-- _biens/appart-a-vendre-145.markdown
 - _biens/villa-a-vendre.md
 - _biens/villa-2-test.md

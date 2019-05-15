@@ -3,7 +3,7 @@ categories: Location
 chambres: 4
 climatisation: true
 cuisine: true
-date: 2017-04-28 03:31:00 +0000
+date: '2017-04-28T03:31:00.000+00:00'
 faux_prix: 50000000 XOF
 gardien: true
 groupe: true
@@ -23,7 +23,7 @@ piscine: true
 prix: 3.000.000 FCFA
 quartiers: Dakar Plateau
 reference: 145AV0428
-situation: Disponible
+situation: Déjà Loué
 surface: 450 m²
 terrasse: true
 title: 'Appartement Rue Maunoury, Centre Ville '
@@ -31,8 +31,6 @@ type: Appartement
 types: Appartement
 
 ---
-
-
 Appartement Rue Maunoury, Centre ville
 
 Dans une résidence neuve et moderne en centre ville avec piscine, salle de sport, parking sous sol, gardiennage H24, ascenseurs, un bel appartement, double séjour, 4 chambres, 4 salles de bain, terrasse vue mer, cuisine équipée, climatisation dans toutes les pièces.
