@@ -1,11 +1,11 @@
 ---
 layout: produit
 title: VILLA AUX ALMADIES
-date: 2018-09-11 15:59:44 +0000
+date: '2018-09-11T15:59:44.000+00:00'
 reference: VLAL110918
 image: "/uploads/2018/09/11/20180905_102211.jpg"
 categories: Location
-situation: Disponible
+situation: Déjà Loué
 types: Villa
 chambres: 4
 quartiers: Almadies
