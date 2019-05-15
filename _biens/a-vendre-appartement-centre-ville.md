@@ -1,11 +1,11 @@
 ---
 layout: produit
 title: A VENDRE APPARTEMENT CENTRE VILLE
-date: 2017-11-23 12:11:29 +0000
-reference: VL112017CV
+date: '2017-11-23T12:11:29.000+00:00'
+reference: AP112017CV
 categories: Vente
 situation: Disponible
-types: Villa
+types: Appartement
 chambres: 2
 quartiers: Dakar Plateau
 prix: 90.000.000 F
@@ -24,13 +24,10 @@ terrasse: false
 gym: false
 
 ---
-
 **A VENDRE APPARTEMENT CENTRE VILLE**
 
 Un appartement en plein centre ville à deux pas de la Place de l’Indépendance, au 3e étage - Séjour avec balcon, 2 chambres, salle de bain, cuisine, buanderie, 1 parking au sous sol.
 
 Superficie : 100 m2 environs
 
-Prix de vente : 90 millions 
-
-  
+Prix de vente : 90 millions

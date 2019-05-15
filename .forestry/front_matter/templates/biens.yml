@@ -154,6 +154,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _biens/a-vendre-appartement-centre-ville.md
 - _biens/appart-a-vendre-145.markdown
 - _biens/meuble-gallieni-haut-plateau.md
 - _biens/appartement-meuble-point-e.md
@@ -170,7 +171,6 @@ pages:
 - _biens/villa-a-vendre-ile-de-ngor.md
 - _biens/villa-a-louer-mermoz-1.md
 - _biens/appartement-ville-bd-republique.md
-- _biens/a-vendre-appartement-centre-ville.md
 - _biens/villa-a-vendre-zone-industrielle.md
 - _biens/villa-a-hann.md
 - _biens/villa-mado-au-point-e.md
