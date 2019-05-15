@@ -1,7 +1,7 @@
 ---
 layout: produit
 title: MEUBLE GALLIENI, HAUT PLATEAU
-date: 2017-08-31 10:34:16 +0000
+date: '2017-08-31T10:34:16.000+00:00'
 reference: AM0817GAL
 image: "/uploads/2017/08/31/DSC02883.JPG"
 categories: Location
