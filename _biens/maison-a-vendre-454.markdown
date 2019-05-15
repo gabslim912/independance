@@ -18,7 +18,7 @@ jardin: false
 layout: produit
 meuble: false
 parking: true
-piscine: true
+piscine: false
 prix: 2.200.000 F
 quartiers: Almadies
 reference: ASL0428
