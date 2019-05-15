@@ -154,6 +154,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _biens/appartement-meuble-point-e.md
 - _biens/appartement-a-vendre.md
 - _biens/appartement-a-louer-au-point-e.md
 - _biens/appartement-residence-aquilea.md
@@ -162,7 +163,6 @@ pages:
 - _biens/appartement-a-louer.md
 - _biens/villa-a-vendre-saly.md
 - _biens/maison-a-vendre-454.markdown
-- _biens/appartement-meuble-point-e.md
 - _biens/appartement-meuble-mamelles.md
 - _biens/villa-aux-almadies.md
 - _biens/villa-a-vendre-ile-de-ngor.md
