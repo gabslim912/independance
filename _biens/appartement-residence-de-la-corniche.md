@@ -3,23 +3,24 @@ layout: produit
 title: APPARTEMENT RESIDENCE DE LA CORNICHE
 date: '2018-10-25T16:04:37.000+00:00'
 reference: APRC251018
-image: "/uploads/2018/10/25/IMG-20181017-WA0010.jpg"
+image: "/uploads/2019/05/28/IMG-20190524-WA0003.jpg"
 categories: Location
-situation: Déjà Loué
+situation: ''
 types: Appartement
-chambres: 2
+chambres: ''
 quartiers: Dakar Plateau
 images:
-- "/uploads/2018/10/25/IMG-20181017-WA0025.jpg"
-- "/uploads/2018/10/25/IMG-20181017-WA0009.jpg"
-- "/uploads/2018/10/25/IMG-20181017-WA0000.jpg"
+- "/uploads/2019/05/28/IMG-20190524-WA0013.jpg"
+- "/uploads/2019/05/28/IMG-20190524-WA0012.jpg"
+- "/uploads/2019/05/28/IMG-20190524-WA0010.jpg"
+- "/uploads/2019/05/28/IMG-20190524-WA0005-1.jpg"
 prix: 1 200 000 F
 surface: ''
 gardien: true
 climatisation: true
 groupe: true
 jardin: false
-meuble: false
+meuble: true
 parking: true
 piscine: false
 terrasse: false
