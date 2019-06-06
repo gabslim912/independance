@@ -3,11 +3,11 @@ layout: produit
 title: 'PLATEAUX DE BUREAUX A LOUER RUE CARNOT '
 reference: PBRC280519
 image: "/uploads/2019/05/28/IMG-20190515-WA0010.jpg"
-categories: ''
-situation: ''
-types: ''
+categories: Location
+situation: Disponible
+types: Bureau
 chambres: ''
-quartiers: ''
+quartiers: Dakar Plateau
 images:
 - "/uploads/2019/05/28/IMG-20190515-WA0012.jpg"
 - "/uploads/2019/05/28/IMG-20190515-WA0010-1.jpg"
