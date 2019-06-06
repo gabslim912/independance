@@ -9,9 +9,10 @@ types: Bureau
 chambres: ''
 quartiers: Dakar Plateau
 images:
+- "/uploads/2019/06/06/Askia Bureau Façade.jpg"
 - "/uploads/2019/06/06/Askia Plateau 6.jpg"
-- "/uploads/2019/06/06/Askia Plateau 3.jpg"
-- "/uploads/2019/06/06/Askia Plateau 2.jpg"
+- "/uploads/2019/06/06/Askia Plateau 2-1.jpg"
+- "/uploads/2019/06/06/Askia Plateau 3-1.jpg"
 prix: 10.000 F/m2
 surface: 327 m2
 gardien: true
@@ -24,5 +25,6 @@ piscine: false
 terrasse: false
 cuisine: false
 gym: false
+published: false
 
 ---
