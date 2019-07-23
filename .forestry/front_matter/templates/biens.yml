@@ -154,6 +154,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _biens/exclusivite-independance-immobiliere-terrain-a-vendre.md
 - _biens/plateaux-de-bureaux-a-louer-rue-carnot.md
 - _biens/appartement-residence-de-la-corniche.md
 - _biens/appartements-residence-aden-mermoz.md
@@ -166,7 +167,6 @@ pages:
 - _biens/appartement-a-vendre.md
 - _biens/appartement-a-louer-au-point-e.md
 - _biens/appartement-residence-aquilea.md
-- _biens/exclusivite-independance-immobiliere-terrain-a-vendre.md
 - _biens/maison-a-vendre-784.markdown
 - _biens/appartement-a-louer.md
 - _biens/villa-a-vendre-saly.md
