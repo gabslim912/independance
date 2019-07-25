@@ -154,12 +154,12 @@ fields:
   hidden: false
   default: ''
 pages:
+- _biens/villa-a-vendre-ile-de-ngor.md
 - _biens/villa-a-louer-ngaparu.md
 - _biens/exclusivite-independance-immobiliere-terrain-a-vendre.md
 - _biens/plateaux-de-bureaux-a-louer-rue-carnot.md
 - _biens/appartement-residence-de-la-corniche.md
 - _biens/appartements-residence-aden-mermoz.md
-- _biens/villa-a-vendre-ile-de-ngor.md
 - _biens/villa-mado-au-point-e.md
 - _biens/a-vendre-appartement-centre-ville.md
 - _biens/appart-a-vendre-145.markdown
