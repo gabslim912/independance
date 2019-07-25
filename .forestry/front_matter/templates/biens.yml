@@ -154,6 +154,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _biens/villa-a-louer-ngaparu.md
 - _biens/exclusivite-independance-immobiliere-terrain-a-vendre.md
 - _biens/plateaux-de-bureaux-a-louer-rue-carnot.md
 - _biens/appartement-residence-de-la-corniche.md
