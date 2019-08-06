@@ -154,6 +154,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _biens/residence-ndongo.md
 - _biens/villa-dasouza.md
 - _biens/plateaux-de-bureaux-a-louer-rue-carnot.md
 - _biens/appartement-residence-aquilea.md
