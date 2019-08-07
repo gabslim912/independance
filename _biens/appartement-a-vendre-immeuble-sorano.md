@@ -6,7 +6,7 @@ image: ''
 categories: Vente
 situation: Disponible
 types: Appartement
-chambres: ''
+chambres: 4
 quartiers: Dakar Plateau
 images: []
 prix: 220.000.000 F
