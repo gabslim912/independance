@@ -9,6 +9,7 @@ types: Appartement
 chambres: 4
 quartiers: Dakar Plateau
 images:
+- "/uploads/2019/08/08/IMG_1191 (002)-2.jpg"
 - "/uploads/2019/08/08/IMG_1183 (002) - Copie-2.jpg"
 - "/uploads/2019/08/08/IMG_1186 (002)-1.jpg"
 - "/uploads/2019/08/08/IMG_1185 (002) - Copie - Copie-1.jpg"
