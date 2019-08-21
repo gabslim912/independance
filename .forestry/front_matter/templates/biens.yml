@@ -154,6 +154,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _biens/a-vendre-appartement-centre-ville.md
 - _biens/plateaux-de-bureaux-a-louer-rue-carnot.md
 - _biens/appartement-a-vendre-immeuble-sorano.md
 - _biens/villa-dasouza.md
@@ -166,7 +167,6 @@ pages:
 - _biens/appartement-a-louer-au-point-e.md
 - _biens/appartement-a-vendre.md
 - _biens/residence-ocean-drive-fann-residence-rez-de-jardin.md
-- _biens/a-vendre-appartement-centre-ville.md
 - _biens/residence-lovoa.md
 - _biens/meuble-gallieni-haut-plateau.md
 - _biens/maison-a-vendre-784.markdown

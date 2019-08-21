@@ -6,7 +6,7 @@ reference: AP112017CV
 categories: Vente
 situation: Disponible
 types: Appartement
-chambres: 2
+chambres: ''
 quartiers: Dakar Plateau
 prix: 90.000.000 F
 surface: 100 m2
