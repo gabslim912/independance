@@ -154,6 +154,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _biens/terrain-a-vendre-pres-du-stade-lss.md
 - _biens/appartement-a-vendre-residence-venus.md
 - _biens/a-vendre-appartement-centre-ville.md
 - _biens/plateaux-de-bureaux-a-louer-rue-carnot.md
