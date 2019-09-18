@@ -6,7 +6,7 @@ image: "/uploads/2019/08/06/IMG-20190731-WA0020.jpg"
 categories: Location
 situation: Disponible
 types: Appartement
-chambres: 2
+chambres: '2'
 quartiers: Dakar Plateau
 images:
 - "/uploads/2019/08/06/IMG-20190731-WA0030.jpg"
@@ -17,12 +17,12 @@ prix: ''
 surface: ''
 gardien: true
 climatisation: false
-groupe: true
+groupe: false
 jardin: false
 meuble: false
-parking: true
+parking: false
 piscine: false
-terrasse: false
+terrasse: true
 cuisine: true
 gym: false
 
