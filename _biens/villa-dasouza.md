@@ -1,12 +1,12 @@
 ---
 layout: produit
-title: VILLA DASOUZA
+title: VILLA A LOUER AUX ALMADIES
 reference: VLDSZA060819
 image: "/uploads/2019/08/08/WP_20180108_10_20_34_Pro.jpg"
 categories: Location
 situation: Disponible
 types: Villa
-chambres: 4
+chambres: '4'
 quartiers: Almadies
 images:
 - "/uploads/2019/08/08/WP_20180108_10_20_34_Pro.jpg"
