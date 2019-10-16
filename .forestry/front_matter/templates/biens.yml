@@ -154,6 +154,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _biens/plateaux-de-bureaux-boulevard-du-centenaire.md
 - _biens/residence-ndongo.md
 - _biens/villa-dasouza.md
 - _biens/villa-a-vendre-en-ville-briere-de-l-isle.md
