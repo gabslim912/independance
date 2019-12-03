@@ -154,6 +154,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _biens/residence-moonlight.md
 - _biens/plateaux-de-bureaux-boulevard-du-centenaire.md
 - _biens/residence-ndongo.md
 - _biens/villa-dasouza.md
