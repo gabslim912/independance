@@ -18,5 +18,5 @@ fields:
   hidden: false
   default: category
 pages:
-- _categories/vente.markdown
 - _categories/location.markdown
+- _categories/vente.markdown

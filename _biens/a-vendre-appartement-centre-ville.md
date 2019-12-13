@@ -24,10 +24,10 @@ terrasse: false
 gym: false
 
 ---
-**A VENDRE APPARTEMENT CENTRE VILLE**
+**UN CENTRE D'APPARTEMENTS VENDRE VILLE**
 
-Un appartement en plein centre ville à deux pas de la Place de l’Indépendance, au 3e étage - Séjour avec balcon, 2 chambres, salle de bain, cuisine, buanderie, 1 parking au sous sol.
+Un appartement en plein centre ville à deux pas de la Place de l'Indépendance, au 3ème étage - Séjour avec balcon, 2 chambres, salle de bain, cuisine, buanderie, 1 parking au sous sol.
 
-Superficie : 100 m2 environs
+Superficie: 100 m2 environs
 
-Prix de vente : 90 millions
+Prix ​​de vente: 90 millions
