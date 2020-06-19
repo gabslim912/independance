@@ -1,9 +1,9 @@
 ---
 categories: Location
-chambres: 3
+chambres: '3'
 climatisation: true
 cuisine: true
-date: 2017-04-28 03:28:00 +0000
+date: '2017-04-28T03:28:00.000+00:00'
 faux_prix: 500000 XOF
 gardien: true
 groupe: true
@@ -19,17 +19,16 @@ layout: produit
 meuble: false
 parking: true
 piscine: true
-prix: 1.750.000 FCFA
+prix: A partie de 1.500.000 FCFA
 quartiers: Almadies
 reference: ARALMMASS042
 situation: Disponible
-surface: 450 m²
+surface: 200 m²
 terrasse: true
 title: Appartement Résidence MASSAMBA Almadies
 types: Appartement
+
 ---
-
-
 Résidence MASSAMBA Almadies
 
 Dans une résidence neuve aux Almadies, avec piscine, salle de gym, hammam, ascenseur, et parking sous-sol, un appartement vue mer, 3 chambres climatisées avec salles de bain, un grand séjour, une terrasse, cuisine semi équipée, buanderie et WC visiteurs. Gardiennage H24.
