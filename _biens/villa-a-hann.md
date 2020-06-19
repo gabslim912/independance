@@ -1,13 +1,13 @@
 ---
 layout: produit
 title: VILLA A HANN
-date: 2018-06-05 09:29:58 +0000
-reference: '05052018VLHP'
-image: "/uploads/2018/06/08/photo-1"
+date: '2018-06-05T09:29:58.000+00:00'
+reference: VillaLoc HP190620
+image: "/uploads/2020/06/19/img_4255.JPG"
 categories: Location
-situation: Déjà Loué
+situation: Disponible
 types: Villa
-chambres: 4
+chambres: ''
 quartiers: Hann Maristes
 images:
 - "/uploads/2018/06/08/photo-2"
@@ -39,4 +39,4 @@ TROIS CHAMBRES AVEC SALLES EAU DESIGN  - STUDIO VISITEURS INDEPENDANT
 
 PISCINE A DEBORDEMENT – VUE MER IMPRENABLE – 
 
-DEPENDANCES – GROUPE ELECTROGENE GENERAL 
+DEPENDANCES – GROUPE ELECTROGENE GENERAL
