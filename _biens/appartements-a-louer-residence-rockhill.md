@@ -24,6 +24,5 @@ piscine: false
 terrasse: false
 cuisine: true
 gym: false
-published: false
 
 ---
