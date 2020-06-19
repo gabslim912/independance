@@ -1,13 +1,13 @@
 ---
 layout: produit
 title: APPARTEMENT A LOUER EN CENTRE VILLE HANGA
-date: 2018-09-13 16:46:32 +0000
-reference: APCV130918
+date: '2018-09-13T16:46:32.000+00:00'
+reference: APCV190620
 image: "/uploads/2018/09/13/10082018-4A4A0019.jpg"
 categories: Location
 situation: Disponible
 types: Appartement
-chambres: 4
+chambres: ''
 quartiers: Dakar Plateau
 images:
 - "/uploads/2018/09/13/10082018-4A4A9993 2.jpg"
