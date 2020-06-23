@@ -3,7 +3,7 @@ categories: Location
 chambres: 4
 climatisation: true
 cuisine: true
-date: 2017-04-28 03:34:00 +0000
+date: '2017-04-28T03:34:00.000+00:00'
 faux_prix: 7500000000 XOF
 gardien: true
 groupe: true
@@ -26,9 +26,9 @@ surface: 700 m²
 terrasse: true
 title: Appartement duplex Résidence ATLANTIS
 types: Appartement
+published: false
+
 ---
-
-
 Résidence ATLANTIS AVENUE MANDELA
 
 Dans une résidence moderne avec ascenseur, G.E, parking et gardiennage, deux appartements en duplex avec vue mer au 4éme et 7éme, séjour /salle à manger avec terrasse, 4 chambres, 3 salles de bain, 1 cuisine aménagée, climatisation dans toutes les pièces, buanderie et toilette domestiques.
